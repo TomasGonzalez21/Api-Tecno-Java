@@ -11,4 +11,4 @@ La api tiene funcionalidades para manejar los siguientes aspectos:
 7) Reportes: Permite visualizar reportes de ventas totals y por productos. Y genera un excel
 8) Factuas: Generador de PDF de facturas. Se puede personalizar segun el template.
 
-La API es un monolito que posee varias funcionalidades integradas que pueden ser modificadas para tener una arquitectura de microservicios y darle mas escalabilidad.
+La API es un monolito que posee varias funcionalidades integradas que pueden ser desacopladas para tener una arquitectura de microservicios y darle mas escalabilidad.
